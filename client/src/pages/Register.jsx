@@ -24,7 +24,7 @@ export default function Register() {
   });
 
   useEffect(() => {
-    if (localStorage.getItem("chat-app")) {
+    if (localStorage.getItem(process.env.REACT_APP_LOCALHOST_KEY)) {
       navigate("/");
     }
   }, []);
@@ -39,7 +39,6 @@ export default function Register() {
       toast.error(
         "Password and confirm password should be same.",
         toastOptions
-        
       );
       return false;
     } else if (username.length < 3) {
@@ -77,7 +76,7 @@ export default function Register() {
       }
       if (data.status === true) {
         localStorage.setItem(
-          "chat-app",
+          process.env.REACT_APP_LOCALHOST_KEY,
           JSON.stringify(data.user)
         );
         navigate("/");
