@@ -1,6 +1,6 @@
 # ChitChatt
 <h1 align="center"CHITCHATT</h1>
-
+<img src="file:///Users/souravpaul/Downloads/chitChat.png"
 <h3 align="center">A real-time chat application website built using the toolset from the MERN stack.</h3>
 
 <br />
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsocketio&psig=AOvVaw1iNsbANv5zCfctlrTk6T_x&ust=1690408571994000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD33eXsqoADFQAAAAAdAAAAABAJ">
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
