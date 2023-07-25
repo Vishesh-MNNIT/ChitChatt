@@ -1,7 +1,7 @@
 # ChitChatt
 <h1 align="center"CHITCHATT</h1>
 <p align="center">
-<img alt="Logo" width="142px" src="client/src/shared/img/icon.png"/>
+<img alt="Logo" width="142px" src="client/src/assets/logo2.png"/>
 </p>
 <h3 align="center">A real-time chat application website built using the toolset from the MERN stack.</h3>
 
