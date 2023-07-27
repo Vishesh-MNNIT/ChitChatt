@@ -1,4 +1,4 @@
-# ChitChatt
+# ChitChat
 <h1 align="center"CHITCHATT</h1>
 <p align="center">
 <img alt="Logo" width="142px" src="client/src/assets/logo2.png"/>
